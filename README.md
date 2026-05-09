@@ -70,4 +70,4 @@ This CRM solves critical business questions:
 - **Conversion Tracking**: Visual metrics to understand business growth.
 
 ---
-Built with ⚡ by Nexus Dev Team for Future Interns.
+Built with ⚡ by Vineet Dwd & Team for Future Interns.
